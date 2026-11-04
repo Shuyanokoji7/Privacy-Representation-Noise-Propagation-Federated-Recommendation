@@ -1,0 +1,101 @@
+{
+  "original_round_identity": true,
+  "records": [
+    {
+      "alpha": 0.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "full",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "full",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 0.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "fixed",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "fixed",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 0.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "svd",
+      "coupling": "raw",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 0.0,
+      "balancing": "svd",
+      "coupling": "aligned",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "svd",
+      "coupling": "aligned",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 0.0,
+      "balancing": "none",
+      "coupling": "raw",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "none",
+      "coupling": "raw",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 0.0,
+      "balancing": "none",
+      "coupling": "aligned",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "balancing": "none",
+      "coupling": "aligned",
+      "method": "two",
+      "observations": 14,
+      "passed": true
+    }
+  ]
+}

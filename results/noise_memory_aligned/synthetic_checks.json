@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "alpha": 0.0,
+      "max_preservation_error": 0.0,
+      "passed": true
+    },
+    {
+      "alpha": 1.0,
+      "max_preservation_error": 4.06113415447288e-08,
+      "passed": true
+    }
+  ]
+}
